@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying Computer Engineering at Insper
+- 🌱 I’m currently learning Python, JavaScripit, Html and CSS
+
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfariasoares)](https://github.com/victorfariasoares/github-readme-stats)
 <!--
 **victorfariasoares/victorfariasoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
