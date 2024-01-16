@@ -3,8 +3,11 @@
 - 🔭 I’m currently studying Computer Engineering at Insper
 - 🌱 I’m currently learning Python, JavaScripit, Html and CSS
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfariasoares&show_icons=true&theme=github_dark_dimmed)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfariasoares&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfariasoares&layout=compact)
 <!--
+ADD:
+&include_all_commits=true
 **victorfariasoares/victorfariasoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
