@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I´m Victor Soares 👋
 
 - 🔭 I’m currently studying Computer Engineering at Insper
 - 🌱 I’m currently learning Python, JavaScripit, Html and CSS
