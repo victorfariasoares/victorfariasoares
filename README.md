@@ -1,7 +1,7 @@
 ### Hi, I´m Victor Soares 👋
 
 - 🔭 I’m currently studying Computer Engineering at Insper
-- 🌱 I’m currently learning Python, JavaScripit, Html and CSS
+- 🌱 I’m currently learning Python, JavaScripit, Java, Html and CSS.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfariasoares&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfariasoares&layout=compact)
